@@ -1,0 +1,32 @@
+2026-05-22 04:07:23 amzn-s3618
+2026-05-21 04:32:26 amzn-s385
+i-090ff2b8188a76be5
+i-02c12903f5bc64637
+{
+    "Functions": []
+}
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "molu",
+            "UserId": "AIDAQXAJ6VVFLPNY7FXSQ",
+            "Arn": "arn:aws:iam::049413008714:user/molu",
+            "CreateDate": "2026-05-22T04:04:24+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "santa",
+            "UserId": "AIDAQXAJ6VVFEBARCP6BL",
+            "Arn": "arn:aws:iam::049413008714:user/santa",
+            "CreateDate": "2026-05-22T04:04:07+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "tester",
+            "UserId": "AIDAQXAJ6VVFEQMSG6IPG",
+            "Arn": "arn:aws:iam::049413008714:user/tester",
+            "CreateDate": "2026-05-21T14:26:47+00:00"
+        }
+    ]
+}
